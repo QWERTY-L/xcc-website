@@ -6,7 +6,7 @@ function About() {
   return (
     <div className="App">
       <header className="App-header">
-        <MainMenu pagename="Michael's Club" colour="primary" />
+        <MainMenu pagename="BLANK" colour="primary" />
         <h>About Page</h>
       </header>
     </div>
